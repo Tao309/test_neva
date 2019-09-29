@@ -1,0 +1,12 @@
+#authByPhoneForm .form-group.hidden {
+    display:none;
+}
+
+#authByPhoneForm.success .row-password {
+    display: flex;
+}
+#authByPhoneForm.success .row-phone,
+#authByPhoneForm.success .row-submit {
+    display: none;
+}
+
